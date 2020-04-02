@@ -3,7 +3,6 @@ jobs:
     php73:
       docker:
         - image: circleci/php:7.3-apache
-      working_directory: ~/repo
       steps:
         - run: composer self-update
         - run: composer install --no-interaction
@@ -12,7 +11,6 @@ jobs:
     php74:
       docker:
         - image: circleci/php:7.4-apache
-      working_directory: ~/repo
       steps:
         - run: composer self-update
         - run: composer install --no-interaction
