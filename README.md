@@ -1,4 +1,5 @@
 [![Latest Stable Version](https://poser.pugx.org/arrilot/laravel-data-anonymization/v/stable.svg)](https://packagist.org/packages/arrilot/laravel-data-anonymization/)
+[![CircleCI](https://circleci.com/gh/atabix/laravel-data-anonymization.svg?style=svg)](https://github.com/atabix/laravel-data-anonymization)
 [![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/arrilot/laravel-data-anonymization/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/arrilot/laravel-data-anonymization/)
 
 # Laravel Data Anonymization
