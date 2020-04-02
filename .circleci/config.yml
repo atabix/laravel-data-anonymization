@@ -11,7 +11,7 @@ jobs:
 
   php7.4:
     docker:
-      - image: circleci/php:7.3-apache
+      - image: circleci/php:7.4-apache
     working_directory: ~/repo
     steps:
       - run: composer self-update
