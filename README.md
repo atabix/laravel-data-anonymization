@@ -6,7 +6,7 @@
 
 ## Installation
 
-1. ```composer require arrilot/laravel-data-anonymization```
+1. ```composer require atabix/laravel-data-anonymization```
 
 2. Add `database/anonymizatio`n to `composer.json -> autoload -> classmap`
 
