@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "7dcce92026acc654fdf7812b10e6ea1e",
+    "content-hash": "da850794d30705423d1bbd4798625c8b",
     "packages": [
         {
             "name": "arrilot/data-anonymization",
@@ -2634,7 +2634,7 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "php": ">=5.5.9"
+        "php": "^7.0"
     },
     "platform-dev": []
 }
