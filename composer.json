@@ -1,5 +1,5 @@
 {
-  "name": "jorisatabix/laravel-data-anonymization",
+  "name": "atabix/laravel-data-anonymization",
   "type": "library",
   "license": "MIT",
   "description": "Laravel bridge for arrilot/data-anonymization",
@@ -18,7 +18,7 @@
       "email": "joris.kok@atabix.nl"
     }
   ],
-  "homepage": "https://github.com/jorisatabix/laravel-data-anonymization",
+  "homepage": "https://github.com/atabix/laravel-data-anonymization",
   "require": {
     "php": "^7.0",
     "arrilot/data-anonymization": "~1.0",
